@@ -1,3 +1,2 @@
 # cozmopapa
-
-Building a soccer player
+Building the soccer player
